@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "barlow medium";
+  src: url(../fonts/BarlowSemiCondensed-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "barlow semibold";
+  src: url(../fonts/BarlowSemiCondensed-SemiBold.ttf);
+  font-weight: 600;
+}
